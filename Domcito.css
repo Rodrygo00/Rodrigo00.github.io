@@ -1,6 +1,6 @@
 /*estilo para el cuerpo de la pagina*/
 body{
-    background-color: black;
+    background-color: rgb(94, 255, 0);
     color: white;
     display: flex;
     justify-content: center;
